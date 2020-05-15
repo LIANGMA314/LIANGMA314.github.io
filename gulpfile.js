@@ -89,7 +89,7 @@ gulp.task('default', ['js', 'sass', 'fonts', 'browser-sync', 'watch']);
 
 var pio = new Paul_Pio({
     "mode": "fixed",
-    "hidden": true,
+    "hidden": false,
     "content": {
         "welcome": ["欢迎来到保罗的小宇宙！", "今天天气不错，一起来玩吧！", "博主每天都有些折腾记录，欢迎前往他的小窝阅读~"],
         "custom": [

@@ -100,5 +100,5 @@ var pio = new Paul_Pio({
         ]
     },
     "night": "single.night()",
-    "model": ["https://github.com/LIANGMA314/LIANGMA314.github.io/live2d-widget/models/pio/model.json"]
+    "model": ["https://github.com/LIANGMA314/LIANGMA314.github.io/tree/master/live2d-widget/models/pio/model.json"]
 });
